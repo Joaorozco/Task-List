@@ -26,7 +26,7 @@ import { AddTaskComponent } from './components/add-task/add-task.component';
     AppRoutingModule,
     FontAwesomeModule,
     HttpClientModule,
-    FormsModule
+    FormsModule,
   ],
   providers: [],
   bootstrap: [AppComponent]
