@@ -17,6 +17,12 @@
       "text": "invertigar bootstra",
       "day": "Agosto 5 a las 15:00",
       "reminder": false
+    },
+    {
+      "text": "front end",
+      "day": "mañana",
+      "reminder": true,
+      "id": 4
     }
   ]
 }
