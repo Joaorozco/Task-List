@@ -21,7 +21,7 @@
     {
       "text": "front end",
       "day": "mañana",
-      "reminder": true,
+      "reminder": false,
       "id": 4
     }
   ]
